@@ -14,10 +14,13 @@
   </tr>
 </table>
 
-![years](https://badges.pufler.dev/years/yunuseysr)
-![repos](https://badges.pufler.dev/repos/yunuseysr)
-[![Repos Badge](https://badges.pufler.dev/repos/yunuseysr)]
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+![Years](https://badges.pufler.dev/years/yunuseysr)
+![Repos](https://badges.pufler.dev/repos/yunuseysr)
+![Gists](https://badges.pufler.dev/gists/yunuseysr)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunuseysr)](https://git.io/streak-stats)
+
+
 
 <!--
 **yunuseysr/yunuseysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
