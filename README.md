@@ -21,7 +21,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunuseysr)](https://git.io/streak-stats)
 
 ![Yunuseysr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuseysr&show_icons=true&theme=radical)
-![image](https://user-images.githubusercontent.com/yunuseysr/103046335-8857e180-4590-11eb-9561-55abc94ed13b.png)
+[![Yunuseysr's Github Streak](https://github-readme-streak-stats.herokuapp.com?user=yunuseysr&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **yunuseysr/yunuseysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
