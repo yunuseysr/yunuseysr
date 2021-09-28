@@ -15,6 +15,7 @@
 </table>
 
 ![years](https://badges.pufler.dev/years/yunuseysr)
+![repos](https://badges.pufler.dev/repos/yunuseysr)
 
 <!--
 **yunuseysr/yunuseysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
