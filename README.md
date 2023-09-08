@@ -4,7 +4,7 @@ Hi 👋 My name is Yunus Emre YASAR
 Software Specialist
 -----------------------------
 
-* 🌍  I'm based in Izmir, Turkey
+* 🌍  I'm based in Manisa - Izmir, Turkey
 * 🖥️  See my portfolio at [yunuseysr.github.io](http://yunuseysr.github.io)
 * ✉️  You can contact me at [yunuseysr@gmail.com](mailto:yunuseysr@gmail.com)
 * 🚀  I'm currently working on [vestel.com.tr](http://vestel.com.tr)
